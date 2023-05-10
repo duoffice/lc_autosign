@@ -369,9 +369,9 @@ pushplus_token = ""
 coolpush_token = ""
 
 # 微信推送
-corpid = 'wwxxxx'  # 微信企业ID
-corpsecret = 'abcdef'  # 企业微信应用的Secret
-agentid = 00000000  # 企业微信应用的id
+corpid = 'ww8de85377707e6ee8'  # 微信企业ID
+corpsecret = 'E90Xp8B5J-0sjOBI42MV9Zjgw9dWvRs_dIxXWSGPbvQ'  # 企业微信应用的Secret
+agentid = 1000002  # 企业微信应用的id
 # ####
 
 if __name__ == '__main__':
